@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="98.777779mm"
+   height="99.729332mm"
+   viewBox="0 0 98.777782 99.72934"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="daq-ohm.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3959"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3950"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect6188"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8515696"
+     inkscape:cx="151.64416"
+     inkscape:cy="175.95022"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-100.31387,-129.94962)">
+    <text
+       xml:space="preserve"
+       style="font-size:7.05555534px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332"
+       x="100.53712"
+       y="147.37491"
+       id="text7845"><tspan
+         sodipodi:role="line"
+         id="tspan7843"
+         x="100.53712"
+         y="147.37491"
+         style="font-weight:bold;font-size:25.39999962px;font-family:Constantia;-inkscape-font-specification:Constantia">V = IR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05555534px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332"
+       x="151.40837"
+       y="155.9487"
+       id="text7849"><tspan
+         sodipodi:role="line"
+         id="tspan7847"
+         x="151.40837"
+         y="155.9487"
+         style="font-family:Arial;-inkscape-font-specification:Arial">Ohm's Law</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05555534px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332"
+       x="100.31663"
+       y="166.75497"
+       id="text7999"><tspan
+         sodipodi:role="line"
+         x="104.08694"
+         y="175.57442"
+         id="tspan7947"
+         style="font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           x="100.31663"
+           y="166.75497"
+           style="font-weight:bold;-inkscape-font-specification:Arial"
+           id="tspan7941">V</tspan><tspan
+           x="104.08694"
+           y="166.75497"
+           style="font-size:5.64444447px;-inkscape-font-specification:Arial"
+           id="tspan7943"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> - Voltage: Force pushing electrons</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="100.31663"
+         y="184.39386"
+         id="tspan7953"
+         style="font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           x="100.31663"
+           y="175.57442"
+           style="font-size:5.64444447px;-inkscape-font-specification:Arial"
+           id="tspan7949"
+           dx="0 0 0 0 0 0 0 0">(Volts)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="100.31663"
+         y="193.2133"
+         id="tspan7957"
+         style="font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+         sodipodi:role="line"
+         x="101.88208"
+         y="210.85219"
+         id="tspan7965"
+         style="font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           x="100.31663"
+           y="193.2133"
+           style="font-weight:bold;-inkscape-font-specification:Arial"
+           id="tspan7959">I</tspan><tspan
+           x="101.88208"
+           y="193.2133"
+           style="font-size:5.64444447px;-inkscape-font-specification:Arial"
+           id="tspan7961"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> - Current: Number of electrons/second</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="100.31663"
+         y="219.67163"
+         id="tspan7971"
+         style="font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           x="100.31663"
+           y="202.03275"
+           style="font-size:5.64444447px;-inkscape-font-specification:Arial"
+           id="tspan7967"
+           dx="0 0 0 0 0 0 0">(Amps)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="100.31663"
+         y="228.49107"
+         id="tspan7975"
+         style="font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+         sodipodi:role="line"
+         x="104.39562"
+         y="246.12996"
+         id="tspan7983"
+         style="font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           x="100.31663"
+           y="219.67163"
+           style="font-weight:bold;-inkscape-font-specification:Arial"
+           id="tspan7977">R</tspan><tspan
+           x="104.39562"
+           y="219.67163"
+           style="font-size:5.64444447px;-inkscape-font-specification:Arial"
+           id="tspan7979"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> - Resistance: Ease to electron flow</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="100.31663"
+         y="0"
+         id="tspan7989"
+         style="font-family:Arial;-inkscape-font-specification:Arial"><tspan
+           x="100.31663"
+           y="228.49107"
+           style="font-size:5.64444447px;-inkscape-font-specification:Arial"
+           id="tspan7985"
+           dx="0 0 0 0 0 0 0">(Ohms)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="100.31663"
+         y="0"
+         id="tspan7993"
+         style="font-family:Arial;-inkscape-font-specification:Arial" /><tspan
+         sodipodi:role="line"
+         x="100.31663"
+         y="0"
+         id="tspan7997"
+         style="font-family:sans-serif;-inkscape-font-specification:sans-serif" /></text>
+  </g>
+</svg>
