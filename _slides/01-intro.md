@@ -20,11 +20,6 @@ permalink: /slides/intro/
     <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
     <script type="text/template">## Applications</script>
     </section>
-    <section data-background-iframe="https://www.youtube.com/embed/4q9mFkZ3J_g?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=4q9mFkZ3J_g&amp;showinfo=0&amp;rel=0&amp;html5=1">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>Elena Dreosti, UCL</th></tr>
-      </table>
-    </section>
     <section data-background-iframe="https://www.youtube.com/embed/wwU6TzUJxNU?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=wwU6TzUJxNU&amp;showinfo=0&amp;rel=0&amp;html5=1">
       <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
         <tr><th>Gonçalo Lopes, Kampff Lab</th></tr>
@@ -35,17 +30,18 @@ permalink: /slides/intro/
         <tr><th>Lorenza Calcaterra, Kampff Lab</th></tr>
       </table>
     </section>
-    <section data-background-iframe="https://www.youtube.com/embed/mJDV07ptQFk?start=40&amp;controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>George Dimitriadis, Kampff Lab</th></tr>
-      </table>
-    </section>
 </section>
 
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
 <script type="text/template">
 
+<!-- .element: data-transition="default none" -->
 ![Bonsai in systems neuroscience](../../assets/images/bonsai-applications.svg)
+
+--
+
+<!-- .element: data-transition="none" -->
+![Devices compatible with Bonsai](../../assets/images/bonsai-devices.svg)
 
 ---
 
