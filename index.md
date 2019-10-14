@@ -35,9 +35,9 @@ This training course will introduce you to the basic concepts of data acquisitio
 </table>
 
 ### Session 1 - Introduction to Bonsai
+- What is visual reactive programming, and why should you care? Introduction to Bonsai.
 - How to measure almost anything with Bonsai. From quantities to bytes.
 - How to control almost anything with Bonsai. From bytes to effects.
-- What is visual reactive programming, and why should you care? Introduction to Bonsai.
 - How to measure and control multiple things at the same time with one computer.
 - Demos and applications: a whirlwind tour of Bonsai.
 
