@@ -191,15 +191,15 @@ permalink: /slides/intro/
 
 ---
 
-###### Zip
-
-![Zip](../../assets/images/zip.svg)
-
----
-
 ###### CombineLatest
 
 ![CombineLatest](../../assets/images/combinelatest.svg)
+
+---
+
+###### Zip
+
+![Zip](../../assets/images/zip.svg)
 
 </script>
 </section>
