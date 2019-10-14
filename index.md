@@ -37,19 +37,19 @@ This training course will introduce you to the basic concepts of data acquisitio
 ### Session 1 - Introduction to Bonsai
 - How to measure almost anything with Bonsai. From quantities to bytes.
 - How to control almost anything with Bonsai. From bytes to effects.
-- What is a programming language, and why should you care? Introduction to Bonsai.
+- What is visual reactive programming, and why should you care? Introduction to Bonsai.
 - How to measure and control multiple things at the same time with one computer.
-- The impact of measurement and control technologies in the study of behaviour: past, present, and future.
+- Demos and applications: a whirlwind tour of Bonsai.
 
 ### Session 2 - Cameras, tracking and microcontrollers
-- Measuring behavior using video. From photons to pixels.
+- Measuring behavior using video.
 - Recording real-time video from multiple cameras.
 - Real-time tracking of colored objects, moving objects and contrasting objects: the basic toolkit.
 - Measuring behavior using voltages and an Arduino.
 - A primer on data synchronization: on what frame did the light turn on?
 
 ### Session 3 - Operant behavior tasks
-- Modeling trial sequences: state machines and events.
+- Modeling trial sequences: states, events, and side-effects.
 - Driving state transitions with external inputs.
 - Choice, timeouts and conditional logic: the basic building blocks of reaction time, Go/No-Go and 2AFC tasks.
 - Combining real-time and non real-time logic for good measure.
@@ -63,7 +63,5 @@ This training course will introduce you to the basic concepts of data acquisitio
 - Measuring closed-loop latency.
 
 ### Session 5 - Final projects
-- Custom behavior tracking
-- Interactive visual stimulation
-- Audio acquisition and stimulation
-- Student project preparation and presentation
+- Student project presentation
+- Where to next
