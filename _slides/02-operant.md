@@ -14,21 +14,86 @@ permalink: /slides/operant/
 
 ---
 
-###### Merge
+<!-- .element: data-transition="default none" -->
+###### Transform
 
-![Merge](../../assets/images/merge.svg)
+![Transform](../../assets/images/transform.svg)
+
+--
+
+<!-- .element: data-transition="default none" -->
+###### Select
+
+![Select](../../assets/images/select.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany
+
+![SelectMany](../../assets/images/selectmany.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany: Play audio on cue
+
+![SelectMany](../../assets/images/selectmany-playsound-1.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### SelectMany: Play audio on cue
+
+![SelectMany](../../assets/images/selectmany-playsound-2.svg)
 
 ---
 
-###### Amb
+<!-- .element: data-transition="default none" -->
+###### Buffer
 
-![Amb](../../assets/images/amb.svg)
+![Buffer](../../assets/images/buffer.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### Buffer: Moving Average
+
+![SelectMany](../../assets/images/buffer-movingaverage.svg)
 
 ---
 
-###### Concat
+<!-- .element: data-transition="default none" -->
+###### TriggeredBuffer
 
-![Concat](../../assets/images/concat.svg)
+![TriggeredBuffer](../../assets/images/triggeredbuffer.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### TriggeredBuffer: Signal Snapshot
+
+![SelectMany](../../assets/images/triggeredbuffer-snapshot.svg)
+
+---
+
+###### Window
+
+![Window](../../assets/images/window.svg)
+
+---
+
+<!-- .element: data-transition="default none" -->
+###### TriggeredWindow
+
+![TriggeredWindow](../../assets/images/triggeredwindow.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### TriggeredWindow: Record triggered video
+
+![SelectMany](../../assets/images/triggeredwindow-recordclip.svg)
 
 ---
 
@@ -54,25 +119,11 @@ permalink: /slides/operant/
 
 ![Combine all sequences of frames into a single sequence](../../assets/images/concatfile-combine.svg)
 
----
-
-<!-- .element: data-transition="default none" -->
-###### Transform
-
-![Transform](../../assets/images/transform.svg)
-
 --
 
-<!-- .element: data-transition="none default" -->
-###### Select
+###### Higher-Order: Batch concatenate multiple videos
 
-![Select](../../assets/images/select.svg)
-
----
-
-###### SelectMany
-
-![SelectMany](../../assets/images/selectmany.svg)
+![SelectMany](../../assets/images/higherorder-concatfiles.svg)
 
 ---
 
@@ -108,16 +159,6 @@ permalink: /slides/operant/
 ---
 
 <!-- .element: data-transition="default none" -->
-![TriggeredWindow](../../assets/images/triggeredwindow-states-hidden.svg)
-
---
-
-<!-- .element: data-transition="none default" -->
-![TriggeredWindow](../../assets/images/triggeredwindow-states.svg)
-
----
-
-<!-- .element: data-transition="default none" -->
 ![SelectMany](../../assets/images/selectmany-events-hidden.svg)
 
 --
@@ -137,27 +178,21 @@ permalink: /slides/operant/
 
 ---
 
-###### Buffer
+###### Merge
 
-![Buffer](../../assets/images/buffer.svg)
-
----
-
-###### TriggeredBuffer
-
-![TriggeredBuffer](../../assets/images/triggeredbuffer.svg)
+![Merge](../../assets/images/merge.svg)
 
 ---
 
-###### Window
+###### Amb
 
-![Window](../../assets/images/window.svg)
+![Amb](../../assets/images/amb.svg)
 
 ---
 
-###### TriggeredWindow
+###### Concat
 
-![TriggeredWindow](../../assets/images/triggeredwindow.svg)
+![Concat](../../assets/images/concat.svg)
 
 ---
 
